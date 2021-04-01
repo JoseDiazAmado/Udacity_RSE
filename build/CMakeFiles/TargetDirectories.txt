@@ -1,0 +1,3 @@
+/home/jada/Udacity_RSE_2020/Projects/Project1/build/CMakeFiles/edit_cache.dir
+/home/jada/Udacity_RSE_2020/Projects/Project1/build/CMakeFiles/rebuild_cache.dir
+/home/jada/Udacity_RSE_2020/Projects/Project1/build/CMakeFiles/welcome_message.dir
