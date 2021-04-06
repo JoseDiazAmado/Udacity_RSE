@@ -1,0 +1,29 @@
+
+## Instructions
+##### 1. Launch the robot inside your world
+
+This can be done by launching the world.launch file:
+
+```sh
+$ cd /home/workspace/catkin_ws/
+$ source devel/setup.bash
+$ roslaunch my_robot world.launch
+```
+
+##### 2. Run the ball's detection node
+
+```sh
+$ cd /home/workspace/catkin_ws/
+$ source devel/setup.bash
+$ roslaunch cam_ball_detection ball_detection.launch 
+```
+
+##### 3. Run drive_bot and process_image
+
+This can be done by executing ball_chaser.launch:
+
+```sh
+$ cd /home/workspace/catkin_ws/
+$ source devel/setup.bash
+$ roslaunch ball_chaser ball_chaser.launch
+```
